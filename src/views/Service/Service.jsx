@@ -1,0 +1,23 @@
+import React from 'react'
+import './Service.css'
+import ServiceBox from '../../components/ServiceBox/ServiceBox'
+
+function Service() {
+  return (
+    <>
+    <div id="Services" className='services'>
+      <h1>Meus serviços</h1>
+      <div className="boxes">
+        <ServiceBox animation = "fade-up" icon = "fas fa-globe" heading = "Desenvolvimento Web" text = "Eu ofereço um vasto conhecimento em linguagens de programação web, como: CSS, JSX, HTML." />
+        <ServiceBox animation = "fade-up" icon = "fas fa-code" heading = "Desenvolvimento de software" text = "Conhecimento em programação para aplicativos, tanto mobile quanto para computador"/>
+        <ServiceBox animation = "fade-up" icon = "fas fa-info-circle" heading = "Game Design" text = "Conhecimento em game design, pixel art e animação" />
+        <ServiceBox animation = "fade-up" icon = "fas fa-bookmark" heading = "Design" text = "Conhecimento em Adobe Photoshop e Adobe Illustrator para criação de logo tipos" />
+        <ServiceBox animation = "fade-up" icon = "fas fa-users" heading = "Redes de internet" text = "Conhecimento em redes de internet e protocólo de IPv4" />
+        <ServiceBox animation = "fade-up" icon = "fas fa-video" heading = "Edição de video" text = "Conhecimento básico de edição de videos para YouTube" />
+      </div>
+    </div>
+    </>
+  )
+}
+
+export default Service

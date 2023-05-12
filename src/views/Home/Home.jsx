@@ -20,7 +20,7 @@ function Home() {
           <p>Oi, eu sou o</p>
           <h1>Nathan</h1>
           <h2>E eu sou um <span className="typing"></span></h2>
-          <a href="docs.google.com/document/d/1E7zhlWK-4MBwGfX5JBsk96iJ7Bhttps://MOUsdJ/edit?usp=share_link&ouid=107708546702958327877&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Download Curriculum</a>
+          <a href="https://docs.google.com/document/d/1puL4KnhWGPRps6I29dBcU2RgPNtBLMJd/edit?usp=share_link&ouid=107708546702958327877&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Download Curriculum</a>
         </div>
         <div className="right-content" data-aos = "fade-up" data-aos-delay= "2000">
           <img src={img8} alt="" />

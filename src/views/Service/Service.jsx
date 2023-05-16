@@ -13,7 +13,7 @@ function Service() {
         <ServiceBox animation = "fade-up" icon = "fas fa-info-circle" heading = "Game Design" text = "Conhecimento em game design, pixel art e animação" />
         <ServiceBox animation = "fade-up" icon = "fas fa-bookmark" heading = "Design" text = "Conhecimento em Adobe Photoshop e Adobe Illustrator para criação de logo tipos" />
         <ServiceBox animation = "fade-up" icon = "fas fa-users" heading = "Redes de internet" text = "Conhecimento em redes de internet e protocólo de IPv4" />
-        <ServiceBox animation = "fade-up" icon = "fas fa-video" heading = "Edição de video" text = "Conhecimento básico de edição de videos para YouTube" />
+        <ServiceBox animation = "fade-up" icon = "fas fa-video" heading = "Criação de thumbnail" text = "Conhecimento em criação de thumbnails para videos YouTube" />
       </div>
     </div>
     </>

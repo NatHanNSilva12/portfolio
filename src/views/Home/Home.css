@@ -51,6 +51,11 @@
     margin: auto;
 }
 
+.home img{
+    height: 15rem;
+    width: 15rem;
+}
+
 @media only screen and (max-width: 1000px) {
     .home{
         padding: 0rem 0rem;

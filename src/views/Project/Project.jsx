@@ -9,6 +9,7 @@ import ProjectBox from '../../components/ProjectBox/ProjectBox'
 import img7 from  '../../images/wotktale.png'
 import img9 from '../../images/site-raffa.png'
 import img8 from '../../images/site-finanças.png'
+import img6 from '../../images/topgearclone.png'
 
 
 function Project() {
@@ -26,6 +27,7 @@ function Project() {
             <ProjectBox title = "Jogo para o projeto Hackathon" img= {img7} link = "https://gamer0097br.itch.io/worktale"  />
             <ProjectBox title = "Site para um corretor imobiliário" img= {img9} link = "https://site-raffa.vercel.app/"  />
             <ProjectBox title = "Site de controle financeiro" img= {img8} link = "https://controle-financeiro-black.vercel.app/"  />
+            <ProjectBox title = "Clone de topgear em html" img= {img6} link = "https://topgear-html-clone.netlify.app"  />
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import img8 from '../../../src/images/home_page.png'
+import img5 from '../../../src/images/Eu_pixelart.png'
 
 import Aos from "aos"
 import { useEffect } from 'react'
@@ -23,7 +23,7 @@ function Home() {
           <a href="https://docs.google.com/document/d/1puL4KnhWGPRps6I29dBcU2RgPNtBLMJd/edit" target="_blank" rel="noopener noreferrer">Download Curriculum</a>
         </div>
         <div className="right-content" data-aos = "fade-up" data-aos-delay= "2000">
-          <img src={img8} alt="" />
+          <img src={img5} alt="" />
         </div>
       </div>
     </div>

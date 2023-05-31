@@ -6,7 +6,7 @@ function Contact() {
   return (
     <>
     <div id="Contact" className='contact'>
-      <h1>Me contate</h1>
+      <h1>Fale comigo</h1>
       <div className="boxes">
         <ContactBox animation="fade-right" class= "fas fa-envelope" name="Email" link="mailto:nathannssilva12@gmail.com"/>
         <ContactBox animation="fade-up" class= "fab fa-github" name="Github" link="https://github.com/NatHanNSilva12"/>

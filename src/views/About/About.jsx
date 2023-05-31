@@ -23,7 +23,7 @@ function About() {
         </div>
         <div  className="right-content">
         <h2>Oi, eu sou o Nathan</h2>
-        <p>Olá, meu nome é Nathan Silva, sou um desenvolvedor junior, amante de pixel art, heavy metal antigo e games antigos.</p>
+        <p>Olá, meu nome é Nathan Silva, sou um desenvolvedor junior, amante de pixel art, heavy metal e games antigos.</p>
         <a href="https://www.linkedin.com/in/nathan-silva-5abb8a241/" target="_blank" rel="noopener noreferrer">Este sou eu</a>
         </div>
       </div>

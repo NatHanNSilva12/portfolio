@@ -3,12 +3,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
 
 :root {
-    --aqua: #05e6ee;
-    --aqua-low:#60aeb0;
+    --aqua: #a92727;
+    --aqua-low:#dd2020;
     --white : #ffffff;
-    --black-low: #0d1321;
-    --black-high: #141724;
-    --black-body:#050b17;
+    --black-low: #050505;
+    --black-high: #050505;
+    --black-body:#121210;
 }
 
 *{

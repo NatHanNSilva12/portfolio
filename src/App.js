@@ -18,7 +18,7 @@ function App() {
     <div className='body'>      
       <div id="loading_start" className='loading_start_none'>
         <p>Loading</p>
-        <PulseLoader color={"#05e6ee"} size={12} />
+        <PulseLoader color={"#dd2020"} size={12} />
       </div>
       <Navbar/>
       <Home/>

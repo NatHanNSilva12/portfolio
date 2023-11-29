@@ -47,7 +47,7 @@ function Navbar() {
                 <div className="nav">
                 <Link to="Home" offset={-150} ><h2>Portfo<span>lio</span></h2></Link>
                 <ul>
-                    <li><Link to="Home" activeClass='active' offset={-150} spy={true} onClick={navclose}><i className='fas fa-home' ></i>Home</Link></li>
+                    <li><Link to="Home" activeClass='active' offset={-150} spy={true} onClick={navclose}><i className='fas fa-home' ></i>Inicio</Link></li>
                     <li><Link to="About" activeClass='active' offset={-100} spy={true} onClick={navclose}><i className='fas fa-user' ></i>Sobre</Link></li>
                     <li><Link to="Services" activeClass='active' offset={-100} spy={true}  onClick={navclose}><i className='fas fa-cogs' ></i>Serviços</Link></li>
                     <li><Link to="Project" activeClass='active' offset={-100} spy={true}  onClick={navclose}><i className='fas fa-archive' ></i>Projetos</Link></li>

@@ -6,7 +6,7 @@ function Footer() {
     <>
     <div className='footer'>
         <div className='author'>
-        <p>Criado por <a href="https://docs.google.com/document/d/1puL4KnhWGPRps6I29dBcU2RgPNtBLMJd/edit?usp=share_link&ouid=107708546702958327877&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Nathan Silva</a> com <i className='far fa-heart'></i></p>
+        <p>Criado por <a href="https://docs.google.com/document/d/e/2PACX-1vQyXE89SiWdWUUIT0Y_UeQAqc31YVEHlAfA-Ul1pZ0e16gi_RwY4934nF6EodHdr6L9K7PXqjr1jPfC/pub" target="_blank" rel="noopener noreferrer">Nathan Silva</a> com <i className='far fa-heart'></i></p>
         <p>Este site está em constante atualização</p>
         </div>
         <div className=''>
